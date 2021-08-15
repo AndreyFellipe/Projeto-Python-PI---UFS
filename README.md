@@ -1,2 +1,3 @@
 # Projeto Python PI - UFS
- Projeto voltado para gráficos das Olimpíadas usando Matplotlib
+ Projeto de Programação Imperativa voltado para gráficos das Olimpíadas utilizando a bibilioteca Matplotlib.
+ 
